@@ -1,0 +1,7 @@
+public class ew {
+   public static void main(String[]args){
+    StringBuffer sb=new StringBuffer("ICPC");
+    sb.append(" WORLDCUP 2025");
+    System.out.println(sb);
+   } 
+}
