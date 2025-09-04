@@ -1,0 +1,7 @@
+public class ew{
+   public static void main(String[]args){
+      StringBuffer sb=new StringBuffer ("abba apnake onek valobashi");
+      sb.replace(5,5,("ami "));
+      System.out.println(sb);
+   }
+}
